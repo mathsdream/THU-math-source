@@ -8,7 +8,7 @@
 
 ---
 
-Updated by physnya: 
+Updated by [physnya](https://github.com/physnya): 
 
 艾颖华《高等微积分 1》课程、《高等微积分 2》课程全部课堂笔记，参见 https://physnya.top/integral/
 
