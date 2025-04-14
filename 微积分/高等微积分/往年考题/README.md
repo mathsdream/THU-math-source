@@ -4,7 +4,7 @@
 
 Updated by physnya: 
 
-艾颖华《高等微积分 1》课程、《高等微积分 2》课程全部课堂笔记，参见 https://physnya.top/notes/integral/
+艾颖华《高等微积分 1》课程、《高等微积分 2》课程全部课堂笔记，参见 https://physnya.top/integral/
 
 2024 秋季学期的课程录像（高等微积分 1）在下面的网址：https://cloud.tsinghua.edu.cn/d/30f5aaeae0224b0fa61a/
 
