@@ -6,6 +6,8 @@
 
 我也分不太清资源，都合并在这吧
 
+更新：2025年秋季学期，选课系统上好像没有了专供电子系的高等微积分，推测是不再区分了
+
 ---
 
 Updated by [physnya](https://github.com/physnya): 
