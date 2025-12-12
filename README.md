@@ -1,4 +1,5 @@
 # THU-math-source
+
 一些积攒下来的清华基础数学课程的资源，当前涵盖微积分、线性代数、概率统计类课程。主要收集较新的、当前教学体系下的资源，过古早的资源一般无太大参考价值，暂不考虑上传。
 
 **使用资源前建议先阅读各学科的README.md**
@@ -13,6 +14,7 @@
 
 部分资料收集整理自以下平台，如有其他学科需求可在上面看看：
 
-*  [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+* [清华大学计算机系课程攻略](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 * [华清大学课程攻略共享计划](https://in.closed.social:9443/pastExam/)
 
+如本资料库中的资源有疑问，或有想要匿名贡献的资源，或想要进行更多相关交流，欢迎email与我联系：jiangwandathu@gmail.com
